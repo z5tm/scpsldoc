@@ -1,0 +1,160 @@
+
+Official Server Agreement
+
+Official Server Requirements
+Last Update: 15 December 2022
+
+What are the Official Servers? 
+‘Official Servers’ are servers provided by Northwood, or community-hosted servers that have been approved by Northwood to obtain this status.  
+
+
+The ‘Official Server’ status is the highest quality certificate given by Northwood to a server owner. It indicates that the server is well-moderated and reflects a pure, or ‘vanilla’, gameplay experience, as defined by the Northwood Game Design team.
+
+
+Official Servers receive benefits for holding the title of ‘Official Server’, these benefits are explained later in this document.
+
+Submission Requirements 
+(For Official Server Applicants)
+
+You must have a well-structured Discord server, consisting of a minimum of 250 members; with a staff team that can successfully enforce the server’s rules.
+
+
+Your Discord/community must have an appropriate system in place for reporting rule-breakers and hackers. Also, it should have a system established to manage appeals. 
+
+
+Your servers must have been verified for at least a consecutive six months prior to applying for Official status. 
+
+
+You must have a decent, dedicated server able to run a quality service without lag. No home-hosted servers will be considered. 
+
+
+Be able to meet the upkeep requirements for an Official Server, as listed below.
+
+
+Disclaimer — The aforementioned requirements are the bare minimum a server needs to meet to apply. Acceptance is subject to approval, even if the community meets all the listed requirements. 
+
+
+
+
+
+
+Upkeep Requirements of Official Servers 
+
+
+You must continue to follow the Verified Server Rules.
+
+
+You may not advertise your Discord in the server title. You are permitted to add your Discord invite to the info tab and the in-game player list.
+
+
+You must follow the Official Server Naming Guidelines.
+
+
+You are free to monetise your Official Server and accept donations, but you cannot provide perks that affect gameplay. For example, you may give your supporters in-game badges (with no RA access), but it is not allowed to give any sort of item or other game affecting benefit. 
+
+
+By default, you may only host a single server with Official status. If your server is very busy on a daily basis, you may ask for permission to open a second one. This is not recommended unless you are certain your staff can manage the additional upkeep and moderation thereof.
+
+
+Your server must be hosted in the designated region you are hosting it from, unless previously deemed acceptable.
+
+
+Your server must have a clear set of rules in the info tab and active in-game staff members to enforce them. Ideally, there should always be someone to handle player reports and ensure the game isn’t being stalled. This applies specifically during peak hours. 
+
+
+Official Server owners are expected to set up permissions, rules, and necessary training for anyone accessing the Remote Admin. We don't mind occasional admin trolling (providing it doesn't affect gameplay negatively or make people unhappy). We also allow hosting event rounds from time-to-time. If it becomes too regular, or players do not appreciate it, these event rounds should be omitted. Event rounds should be announced via the text broadcast system. This ensures that players who just joined know what's going on. 
+
+
+Servers must adhere to a slot cap of 20 – 25. This excludes players in overwatch mode (who don’t actively play). The number of actual players should never exceed 25. 
+
+
+You must keep your server online for a minimum of twenty-two hours a day. If you are unable to sustain this due to maintenance, please inform the Northwood Community Management Director, TrueWhiteLion.
+
+
+Ideally, no plugins should be installed. Certain tools that are absolutely necessary may be installed after explicit approval of the Northwood Community Management Director. Plugins that are solely for moderation and have no effect on the normal gameplay loop, or will not be noticed / seen by non-staff players are allowed. Anti-AFK plugins are an example of one of these allowed plugins.
+
+
+
+
+
+
+
+
+Do not change any entries in the gameplay configuration that alter the base game experience. All gameplay options must remain completely unchanged. The only acceptable changes are: friendly-fire settings, spawn protection settings, and automatic Warhead detonation. You are also free to change configuration entries that do nor directly affect gameplay (such as friendly-fire detector, intercom cooldowns, etc). We recommend disabling fast round restart, unless you absolutely need it. If friendly-fire is enabled, the friendly_fire_multiplier must equal to 0.4.
+
+
+
+Official Servers must adhere to standard gameplay rules. The exact punishments (including ban durations) may vary, but Official Server moderation must ensure that the following rules are enforced: 
+
+
+If friendly fire is enabled — no team-killing is permitted. This includes Class-D on Class-D. Official Servers are free to include exceptions where teamkilling is permitted or not punished (crossfire, self-defense, punishment for team sabotage, etc). 
+
+
+No stalling. If the last team member(s) camp at a specific location, moderators are expected to react so the round can progress. It’s often subjective, so we trust in the server moderation’s judgment. 
+
+
+Cuffing Class-D by MTF/Guards can be encouraged, but should never be required. 
+
+
+No team sabotage as MTF is allowed. This includes turning off generators, killing obedient Class-D, which have been cuffed by another MTF, and uncuffing Class-D right before their escape (to turn them into Chaos, preventing an MTF win). 
+
+
+If your server ends up deviating from our desired gameplay experience, despite meeting all our regulations, you will be notified and asked to address the issue. If you aren’t to blame, you’ll be provided with a list of changes to apply to your gameplay configuration.
+
+
+You will be assigned a Liaison Officer(s) from the Verification Team. These officers will act as a bridge between your server and Northwood. They will be available to answer any questions, or to help resolve any issues you may have. You will be required to create, at least, one Discord channel where officers can communicate with your staff members. If you wish to give them access to more areas, you are free to do so but not obligated to. 
+
+
+As a server owner, you are responsible for your staff members the same way we are responsible for enforcing certain standards on Official Servers. If your community/staff is acting in a fashion that would reflect negatively on the brand or public image of Northwood Studios, the Official Server status will be revoked. Our standards are high, and the status can be revoked if we decide your server is not up to them.
+
+
+The above rules are non-negotiable. Any deviations from these requirements are only within Northwood’s capacity and will be solely for testing purposes (this is due to game balances done by the base game). 
+
+
+
+
+
+
+
+Perks
+Your Official Server will appear in the ‘Official’ category in the in-game server list. An icon displaying the Official status of your server will also be applied to its listing on the server list.
+
+
+Your community will be endorsed on the official Secret Lab Discord server. 
+
+
+Global [SCP:SL Official Server Host] tag in-game. Only two will be given (reserved to community owners, not managers). 
+
+
+‘Official Server Host’ tag on our Discord. Only two will be given (reserved to community owners, not managers). 
+
+
+When a Patreon beta version of SCP:SL is available, you can request access for yourself and selected staff members. This is to enable you to host and moderate beta servers.
+
+
+Ability to advertise your community's Discord server on the in-game player list and pastebin. Reminders can be made via broadcasts for reporting/moderating purposes but are to be kept as noninvasive as possible.
+
+Legal Requirements 
+You must agree to the game EULA (end-user license agreement).
+You may not be in breach of the Discord terms of service.
+Distributing advertisements and/or commercial products using the name of SCP: Secret Laboratory (and/or any associated abbreviations) will have you removed from the program immediately.
+You must refrain from any malicious activity against Northwood studios, communities affiliated with the SCP community, or other communities in general. Failure to do so will result in immediate removal of the Official status, and may result in delisting your servers.
+By using the Official Server status, you agree to the above terms and you agree to take responsibility for any, and all, repercussions that may come from people acting on your behalf.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TrueWhiteLion
+Community Management Director
+12 December 2022
